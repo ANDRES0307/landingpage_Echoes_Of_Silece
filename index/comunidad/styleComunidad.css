@@ -1,0 +1,322 @@
+.PANTALLA-COMMUNITY {
+    position: relative;
+    width: 1920px;
+    height: 1080px;
+    overflow: hidden;
+    background-image: url(https://c.animaapp.com/XFkH4BJq/img/pantalla-community---button---input---svg---thqexclude.png);
+    background-size: cover;
+    background-position: 50% 50%;
+  }
+  
+  .PANTALLA-COMMUNITY .overlap {
+    position: absolute;
+    width: 1920px;
+    height: 138px;
+    top: 0;
+    left: 0;
+  }
+  
+  .PANTALLA-COMMUNITY .group {
+    position: absolute;
+    width: 455px;
+    height: 89px;
+    top: 27px;
+    left: 44px;
+  }
+  
+  .PANTALLA-COMMUNITY .text-wrapper {
+    position: absolute;
+    width: 136px;
+    top: 40px;
+    left: 519px;
+    font-family: "Jolly Lodger", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 48px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .PANTALLA-COMMUNITY .div {
+    position: absolute;
+    width: 136px;
+    top: 40px;
+    left: 685px;
+    font-family: "Jolly Lodger", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 48px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .PANTALLA-COMMUNITY .text-wrapper-2 {
+    position: absolute;
+    width: 196px;
+    top: 40px;
+    left: 821px;
+    font-family: "Jolly Lodger", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 48px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .PANTALLA-COMMUNITY .text-wrapper-3 {
+    position: absolute;
+    width: 196px;
+    top: 40px;
+    left: 1047px;
+    font-family: "Jolly Lodger", Helvetica;
+    font-weight: 400;
+    color: #ffd000;
+    font-size: 48px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .PANTALLA-COMMUNITY .text-wrapper-4 {
+    position: absolute;
+    width: 196px;
+    top: 40px;
+    left: 1293px;
+    font-family: "Jolly Lodger", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 48px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .PANTALLA-COMMUNITY .text-wrapper-5 {
+    position: absolute;
+    width: 55px;
+    top: 57px;
+    left: 1741px;
+    font-family: "Outfit", Helvetica;
+    font-weight: 500;
+    color: #ffffff;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: 18.5px;
+  }
+  
+  .PANTALLA-COMMUNITY .profile-image {
+    position: absolute;
+    width: 69px;
+    height: 82px;
+    top: 24px;
+    left: 1807px;
+    object-fit: cover;
+  }
+  
+  .PANTALLA-COMMUNITY .rectangle {
+    position: absolute;
+    width: 1920px;
+    height: 138px;
+    top: 0;
+    left: 0;
+    border: 1px solid;
+    border-color: #ffffff;
+  }
+  
+  .PANTALLA-COMMUNITY .img {
+    position: absolute;
+    width: 1143px;
+    height: 404px;
+    top: 645px;
+    left: -16267px;
+  }
+  
+  .PANTALLA-COMMUNITY .ellipse {
+    position: absolute;
+    width: 22px;
+    height: 22px;
+    top: 1023px;
+    left: -4038px;
+    background-color: #7dd100;
+    border-radius: 11px;
+  }
+  
+  .PANTALLA-COMMUNITY .overlap-group {
+    position: absolute;
+    width: 1967px;
+    height: 864px;
+    top: 216px;
+    left: -91px;
+  }
+  
+  .PANTALLA-COMMUNITY .news {
+    position: absolute;
+    width: 1464px;
+    height: 620px;
+    top: 244px;
+    left: 0;
+    box-shadow: 0px 4px 4px #00000040;
+  }
+  
+  .PANTALLA-COMMUNITY .cards {
+    position: relative;
+    width: 1224px;
+    height: 342px;
+    top: 64px;
+    left: 120px;
+  }
+  
+  .PANTALLA-COMMUNITY .news-card {
+    position: absolute;
+    width: 288px;
+    height: 342px;
+    top: 0;
+    left: 0;
+    background-color: #ffffff08;
+    border-bottom-width: 4px;
+    border-bottom-style: solid;
+    border-color: #ffffff;
+  }
+  
+  .PANTALLA-COMMUNITY .avatar {
+    position: absolute;
+    width: 32px;
+    height: 32px;
+    top: 216px;
+    left: 24px;
+    object-fit: cover;
+  }
+  
+  .PANTALLA-COMMUNITY .text-wrapper-6 {
+    position: absolute;
+    top: 219px;
+    left: 64px;
+    opacity: 0.5;
+    font-family: "Outfit", Helvetica;
+    font-weight: 500;
+    color: #ffffff;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .PANTALLA-COMMUNITY .new-horizon-fobidden {
+    position: absolute;
+    width: 240px;
+    top: 260px;
+    left: 24px;
+    font-family: "Outfit", Helvetica;
+    font-weight: 500;
+    color: #ffffff;
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .PANTALLA-COMMUNITY .news-card-2 {
+    top: 0;
+    left: 312px;
+    position: absolute;
+    width: 288px;
+    height: 342px;
+    background-color: #ffffff08;
+    border-bottom-width: 4px;
+    border-bottom-style: solid;
+    border-color: #ffffff;
+  }
+  
+  .PANTALLA-COMMUNITY .news-card-3 {
+    top: 0;
+    left: 624px;
+    position: absolute;
+    width: 288px;
+    height: 342px;
+    background-color: #ffffff08;
+    border-bottom-width: 4px;
+    border-bottom-style: solid;
+    border-color: #ffffff;
+  }
+  
+  .PANTALLA-COMMUNITY .image {
+    position: absolute;
+    width: 288px;
+    height: 200px;
+    top: 0;
+    left: 0;
+    object-fit: cover;
+  }
+  
+  .PANTALLA-COMMUNITY .news-card-4 {
+    top: 0;
+    left: 936px;
+    position: absolute;
+    width: 288px;
+    height: 342px;
+    background-color: #ffffff08;
+    border-bottom-width: 4px;
+    border-bottom-style: solid;
+    border-color: #ffffff;
+  }
+  
+  .PANTALLA-COMMUNITY .image-2 {
+    left: 744px;
+    position: absolute;
+    width: 288px;
+    height: 200px;
+    top: 308px;
+    object-fit: cover;
+  }
+  
+  .PANTALLA-COMMUNITY .image-3 {
+    left: 432px;
+    position: absolute;
+    width: 288px;
+    height: 200px;
+    top: 308px;
+    object-fit: cover;
+  }
+  
+  .PANTALLA-COMMUNITY .image-4 {
+    left: 120px;
+    position: absolute;
+    width: 288px;
+    height: 200px;
+    top: 308px;
+    object-fit: cover;
+  }
+  
+  .PANTALLA-COMMUNITY .news-card-5 {
+    top: 308px;
+    left: 1367px;
+    position: absolute;
+    width: 288px;
+    height: 342px;
+    background-color: #ffffff08;
+    border-bottom-width: 4px;
+    border-bottom-style: solid;
+    border-color: #ffffff;
+  }
+  
+  .PANTALLA-COMMUNITY .news-card-6 {
+    top: 308px;
+    left: 1679px;
+    position: absolute;
+    width: 288px;
+    height: 342px;
+    background-color: #ffffff08;
+    border-bottom-width: 4px;
+    border-bottom-style: solid;
+    border-color: #ffffff;
+  }
+  
+  .PANTALLA-COMMUNITY .INFORMATE-SOBRE-LAS {
+    position: absolute;
+    width: 1721px;
+    top: 0;
+    left: 120px;
+    font-family: "Outfit", Helvetica;
+    font-weight: 500;
+    color: #ffffff;
+    font-size: 64px;
+    letter-spacing: 0;
+    line-height: 84.5px;
+  }
+  

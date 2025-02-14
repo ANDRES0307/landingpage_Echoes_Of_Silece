@@ -1,0 +1,11 @@
+:root {
+    --h5-desktop-font-family: "Inter", Helvetica;
+    --h5-desktop-font-weight: 700;
+    --h5-desktop-font-size: 14px;
+    --h5-desktop-letter-spacing: 1.4px;
+    --h5-desktop-line-height: 133.4999918937683%;
+    --h5-desktop-font-style: normal;
+    --product-shadow: 30px 0px 40px 0px rgba(0, 0, 0, 0.05);
+    --cart-item-shadow: 15px 0px 20px 0px rgba(0, 0, 0, 0.05);
+  }
+  
