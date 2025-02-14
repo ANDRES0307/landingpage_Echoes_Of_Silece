@@ -1,0 +1,329 @@
+.LANDING-PAGE-button {
+    background-color: transparent;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .LANDING-PAGE-button .div {
+    overflow: hidden;
+    background-image: url(https://c.animaapp.com/BdHKbfUj/img/landing-page---button---input---svg---thqexclude.png);
+    background-size: cover;
+    background-position: 50% 50%;
+    width: 1920px;
+    height: 1080px;
+    position: relative;
+  }
+  
+  .LANDING-PAGE-button .overlap-group {
+    position: absolute;
+    width: 1008px;
+    height: 684px;
+    top: 245px;
+    left: 151px;
+  }
+  
+  .LANDING-PAGE-button .text-wrapper {
+    position: absolute;
+    width: 1008px;
+    top: 319px;
+    left: 0;
+    font-family: "Outfit", Helvetica;
+    font-weight: 500;
+    color: #ffffff;
+    font-size: 96px;
+    letter-spacing: 0;
+    line-height: 126.7px;
+  }
+  
+  .LANDING-PAGE-button .group {
+    position: absolute;
+    width: 522px;
+    height: 320px;
+    top: 0;
+    left: 0;
+  }
+  
+  .LANDING-PAGE-button .overlap {
+    position: absolute;
+    width: 1920px;
+    height: 138px;
+    top: 0;
+    left: 0;
+  }
+  
+  .LANDING-PAGE-button .img {
+    position: absolute;
+    width: 455px;
+    height: 89px;
+    top: 27px;
+    left: 44px;
+  }
+  
+  .LANDING-PAGE-button .text-wrapper-2 {
+    position: absolute;
+    width: 136px;
+    top: 40px;
+    left: 519px;
+    font-family: "Jolly Lodger", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 48px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .LANDING-PAGE-button .text-wrapper-3 {
+    position: absolute;
+    width: 136px;
+    top: 40px;
+    left: 685px;
+    font-family: "Jolly Lodger", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 48px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .LANDING-PAGE-button .text-wrapper-4 {
+    position: absolute;
+    width: 196px;
+    top: 40px;
+    left: 821px;
+    font-family: "Jolly Lodger", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 48px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .LANDING-PAGE-button .text-wrapper-5 {
+    position: absolute;
+    width: 196px;
+    top: 40px;
+    left: 1047px;
+    font-family: "Jolly Lodger", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 48px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .LANDING-PAGE-button .text-wrapper-6 {
+    position: absolute;
+    width: 196px;
+    top: 40px;
+    left: 1293px;
+    font-family: "Jolly Lodger", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 48px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .LANDING-PAGE-button .text-wrapper-7 {
+    position: absolute;
+    width: 55px;
+    top: 57px;
+    left: 1741px;
+    font-family: "Outfit", Helvetica;
+    font-weight: 500;
+    color: #ffffff;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: 18.5px;
+  }
+  
+  .LANDING-PAGE-button .profile-image {
+    position: absolute;
+    width: 69px;
+    height: 82px;
+    top: 24px;
+    left: 1807px;
+    object-fit: cover;
+  }
+  
+  .LANDING-PAGE-button .rectangle {
+    position: absolute;
+    width: 1920px;
+    height: 138px;
+    top: 0;
+    left: 0;
+    border: 1px solid;
+    border-color: #ffffff;
+  }
+  
+  .LANDING-PAGE-button .overlap-2 {
+    position: absolute;
+    width: 649px;
+    height: 358px;
+    top: 377px;
+    left: 1175px;
+  }
+  
+  .LANDING-PAGE-button .subtract {
+    position: absolute;
+    width: 534px;
+    height: 358px;
+    top: 0;
+    left: 0;
+  }
+  
+  .LANDING-PAGE-button .button-green {
+    justify-content: center;
+    gap: 10px;
+    padding: 0px 48px 0px 32px;
+    top: 227px;
+    left: 248px;
+    box-shadow: 0px 0px 34px #99ee2d4c;
+    display: flex;
+    width: 401px;
+    height: 81px;
+    align-items: center;
+    position: absolute;
+  }
+  
+  .LANDING-PAGE-button .button-bg {
+    top: 0;
+    left: 0;
+    display: flex;
+    width: 401px;
+    height: 81px;
+    align-items: center;
+    position: absolute;
+  }
+  
+  .LANDING-PAGE-button .rectangle-2 {
+    position: relative;
+    flex: 1;
+    align-self: stretch;
+    flex-grow: 1;
+    background-color: #ffffff;
+  }
+  
+  .LANDING-PAGE-button .union {
+    position: relative;
+    align-self: stretch;
+    width: 32px;
+  }
+  
+  .LANDING-PAGE-button .arrow-right {
+    position: relative;
+    width: 24px;
+    height: 24px;
+  }
+  
+  .LANDING-PAGE-button .text-wrapper-8 {
+    position: absolute;
+    width: 196px;
+    top: 55px;
+    left: 78px;
+    font-family: "Jolly Lodger", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 48px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .LANDING-PAGE-button .text-wrapper-9 {
+    position: absolute;
+    width: 196px;
+    top: 236px;
+    left: 372px;
+    font-family: "Jolly Lodger", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 48px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .LANDING-PAGE-button .text-wrapper-10 {
+    position: absolute;
+    width: 49px;
+    top: 117px;
+    left: 127px;
+    font-family: "Jolly Lodger", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 64px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .LANDING-PAGE-button .text-wrapper-11 {
+    position: absolute;
+    width: 168px;
+    top: 211px;
+    left: 106px;
+    font-family: "Jolly Lodger", Helvetica;
+    font-weight: 400;
+    color: #ffffff7a;
+    font-size: 36px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .LANDING-PAGE-button .image {
+    position: absolute;
+    width: 250px;
+    height: 143px;
+    top: 49px;
+    left: 249px;
+    object-fit: cover;
+  }
+  
+  .LANDING-PAGE-button .rectangle-3 {
+    position: absolute;
+    width: 118px;
+    height: 23px;
+    top: 930px;
+    left: 151px;
+    background-color: #ffffff;
+  }
+  
+  .LANDING-PAGE-button .rectangle-4 {
+    position: absolute;
+    width: 29px;
+    height: 23px;
+    top: 930px;
+    left: 299px;
+    background-color: #ffffff;
+    opacity: 0.25;
+  }
+  
+  .LANDING-PAGE-button .rectangle-5 {
+    position: absolute;
+    width: 29px;
+    height: 23px;
+    top: 930px;
+    left: 358px;
+    background-color: #ffffff;
+    opacity: 0.25;
+  }
+  
+  .LANDING-PAGE-button .rectangle-6 {
+    position: absolute;
+    width: 1143px;
+    height: 404px;
+    top: 2829px;
+    left: -9152px;
+  }
+  
+  .LANDING-PAGE-button .ellipse {
+    position: absolute;
+    width: 22px;
+    height: 22px;
+    top: 1023px;
+    left: -4038px;
+    background-color: #7dd100;
+    border-radius: 11px;
+  }
+  
